@@ -2,3 +2,4 @@
 0.0.0.0 googleapis.com
 0.0.0.0 shalltry.com
 0.0.0.0 ip-api.com
+0.0.0.0 ind-dsu.shalltry.com
