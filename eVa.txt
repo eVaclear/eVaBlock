@@ -1,1 +1,2 @@
 0.0.0.0 googleapis.com
+0.0.0.0 shelltry.com
