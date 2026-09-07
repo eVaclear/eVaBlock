@@ -52,6 +52,7 @@ raw.githubusercontent.com
 127.0.0.1 ind-osupdate2020.shalltry.com
 127.0.0.1 ind-oslab.shalltry.com
 127.0.0.1 adaggreg-ali.shalltry.com
+127.0.0.1 launcher-h3.shalltry.com
 # [ip-api.com]
 127.0.0.1 ip-api.com
 # [fastly-edge.com]
