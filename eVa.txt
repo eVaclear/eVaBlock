@@ -29,7 +29,6 @@
 127.0.0.1 googleapis.com
 127.0.0.1 firebaselogging.googleapis.com
 127.0.0.1 content-autofill.googleapis.com
-127.0.0.1 play.googleapis.com
 127.0.0.1 play-fe.googleapis.com
 127.0.0.1 playstoregatewayadapter-pa.googleapis.com
 127.0.0.1 prod-lt-playstoregatewayadapter-pa.googleapis.com
