@@ -18,6 +18,7 @@
 # Contribute:
 # Create an issue at https://
 #
+https://raw.githubusercontent.com/eVaclear/eVaBlock/refs/heads/main/eVa.txt
 # [localhost]
 127.0.0.1 localhost
 ::1 localhost
@@ -43,7 +44,7 @@
 127.0.0.1 gslb.shalltry.com
 127.0.0.1 ms.shalltry.com
 127.0.0.1 newsaggreg.shalltry.com
-# [ip-api.com]
+# [ip-api.com]a
 127.0.0.1 ip-api.com
 # [fastly-edge.com]
 127.0.0.1 fastly-edge.com
