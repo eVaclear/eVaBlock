@@ -39,6 +39,7 @@
 127.0.0.1 clientservices.googleapis.com
 # [salltry.com]
 127.0.0.1 shalltry.com
+127.0.0.1 ind-oneid.shalltry.com
 127.0.0.1 ind-dsu.shalltry.com
 127.0.0.1 gslb.shalltry.com
 127.0.0.1 ms.shalltry.com
