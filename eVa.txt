@@ -48,6 +48,7 @@ raw.githubusercontent.com
 127.0.0.1 people-pa.googleapis.com
 127.0.0.1 play.googleapis.com
 127.0.0.1 update.googleapis.com
+127.0.0.1 accountsettingsmobile-pa.googleapis.com
 # [salltry.com]
 127.0.0.1 shalltry.com
 127.0.0.1 ind-oneid.shalltry.com
@@ -82,3 +83,5 @@ raw.githubusercontent.com
 127.0.0.1 *.app-measurement.com
 # [gvt-cn.com]
 127.0.0.1 redirector.gvt1-cn.com
+# [tiktokpangle-b.us]
+127.0.0.1 api16-access-ttp-b.tiktokpangle-b.us
