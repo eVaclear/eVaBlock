@@ -44,6 +44,9 @@ raw.githubusercontent.com
 127.0.0.1 firebaseremoteconfigrealtime.googleapis.com
 127.0.0.1 fonts.googleapis.com
 127.0.0.1 android.googleapis.com
+127.0.0.1 lamssettings-pa.googleapis.com
+127.0.0.1 people-pa.googleapis.com
+127.0.0.1 play.googleapis.com
 # [salltry.com]
 127.0.0.1 shalltry.com
 127.0.0.1 ind-oneid.shalltry.com
