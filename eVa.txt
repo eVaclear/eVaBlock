@@ -1,5 +1,31 @@
-0.0.0.0 0.0.0.0
-0.0.0.0 googleapis.com
-0.0.0.0 shalltry.com
-0.0.0.0 ip-api.com
-0.0.0.0 ind-dsu.shalltry.com
+# eVa default blocklist
+# Blocking mobile ad providers and some analytics providers
+#
+# Project home page:
+# https://
+#
+# Fetch the latest version of this file:
+# https://
+#
+# License:
+# CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
+#
+# Contributions by:
+# Kicelo, Dominik Schuermann.
+# Further changes and contributors maintained in the commit history at
+# https://
+#
+# Contribute:
+# Create an issue at https://
+#
+
+127.0.0.1 localhost
+::1 localhost
+::1 0.0.0.0
+0.0.0.0 ::1
+0.0.0.0 127.0.0.1
+127.0.0.1 0.0.0.0
+127.0.0.1 googleapis.com
+127.0.0.1 shalltry.com
+127.0.0.1 ip-api.com
+127.0.0.1 ind-dsu.shalltry.com
