@@ -18,7 +18,8 @@
 # Contribute:
 # Create an issue at https://
 #
-https://raw.githubusercontent.com/eVaclear/eVaBlock/refs/heads/main/eVa.txt
+# [githubusercontent.com]
+raw.githubusercontent.com
 # [localhost]
 127.0.0.1 localhost
 ::1 localhost
@@ -37,6 +38,10 @@ https://raw.githubusercontent.com/eVaclear/eVaBlock/refs/heads/main/eVa.txt
 127.0.0.1 safebrowsing.googleapis.com
 127.0.0.1 optimizationguide-pa.googleapis.com
 127.0.0.1 clientservices.googleapis.com
+127.0.0.1 xgapromomanager-pa.googleapis.com
+127.0.0.1 searchnotifications-pa.googleapis.com
+127.0.0.1 geller-pa.googleapis.com
+127.0.0.1 firebaseremoteconfigrealtime.googleapis.com
 # [salltry.com]
 127.0.0.1 shalltry.com
 127.0.0.1 ind-oneid.shalltry.com
@@ -44,7 +49,10 @@ https://raw.githubusercontent.com/eVaclear/eVaBlock/refs/heads/main/eVa.txt
 127.0.0.1 gslb.shalltry.com
 127.0.0.1 ms.shalltry.com
 127.0.0.1 newsaggreg.shalltry.com
-# [ip-api.com]a
+127.0.0.1 ind-osupdate2020.shalltry.com
+127.0.0.1 ind-oslab.shalltry.com
+127.0.0.1 adaggreg-ali.shalltry.com
+# [ip-api.com]
 127.0.0.1 ip-api.com
 # [fastly-edge.com]
 127.0.0.1 fastly-edge.com
@@ -55,3 +63,6 @@ https://raw.githubusercontent.com/eVaclear/eVaBlock/refs/heads/main/eVa.txt
 # [boomplaymusic.com]
 127.0.0.1 boomplaymusic.com
 127.0.0.1 open.boomplaymusic.com
+# [facebook.com]
+127.0.0.1 b-graph.facebook.com
+127.0.0.1 b-api.facebook.com
