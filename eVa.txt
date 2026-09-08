@@ -32,70 +32,70 @@ raw.githubusercontent.com
 127.0.0.1 1c5c1ecf7303.e10058c8.ap-south-1.token.awswaf.com
 127.0.0.1 *.ap-south-1.token.awswaf.com
 # [googleapis.com]
-127.0.0.1 *.googleapis.com
-127.0.0.1 firebaselogging.googleapis.com
-127.0.0.1 content-autofill.googleapis.com
-127.0.0.1 play-fe.googleapis.com
-127.0.0.1 playstoregatewayadapter-pa.googleapis.com
-127.0.0.1 prod-lt-playstoregatewayadapter-pa.googleapis.com
-127.0.0.1 readaloud.googleapis.com
-127.0.0.1 safebrowsing.googleapis.com
-127.0.0.1 optimizationguide-pa.googleapis.com
-127.0.0.1 clientservices.googleapis.com
-127.0.0.1 xgapromomanager-pa.googleapis.com
-127.0.0.1 searchnotifications-pa.googleapis.com
-127.0.0.1 geller-pa.googleapis.com
-127.0.0.1 firebaseremoteconfigrealtime.googleapis.com
-127.0.0.1 fonts.googleapis.com
-127.0.0.1 android.googleapis.com
-127.0.0.1 lamssettings-pa.googleapis.com
-127.0.0.1 people-pa.googleapis.com
-127.0.0.1 play.googleapis.com
-127.0.0.1 update.googleapis.com
-127.0.0.1 accountsettingsmobile-pa.googleapis.com
-127.0.0.1 appsgrowthpromo-pa.googleapis.com
-127.0.0.1 cloudconfig.googleapis.com
-127.0.0.1 deviceintegritytokens-pa.googleapis.com
-127.0.0.1 digitalassetlinks.googleapis.com
-127.0.0.1 firebaseremoteconfig.googleapis.com
-127.0.0.1 footprints-pa.googleapis.com
-127.0.0.1 instantmessaging-pa.googleapis.com
-127.0.0.1 instantmessaging-pa-jms-ap.googleapis.com
-127.0.0.1 memex-pa.googleapis.com
-127.0.0.1 pay-users-pa.googleapis.com
-127.0.0.1 phonedeviceverification-pa.googleapis.com
-127.0.0.1 photosdata-pa.googleapis.com
-127.0.0.1 securitydomain-pa.googleapis.com
-127.0.0.1 taskassist-pa.googleapis.com
-127.0.0.1 voledevice-pa.googleapis.com
-127.0.0.1 www.googleapis.com
-127.0.0.1 youtubei.googleapis.com
-127.0.0.1 proactivebackend-pa.googleapis.com
-127.0.0.1 androidpay-users-pa.googleapis.com
-127.0.0.1 androidplatformbackuprestore-pa.googleapis.com
-127.0.0.1 feedback-pa.googleapis.com
-127.0.0.1 flexagon-pa.googleapis.com
-127.0.0.1 locationhistory-pa.googleapis.com
-127.0.0.1 clientauthconfig.googleapis.com
-127.0.0.1 contactsui-pa.googleapis.com
-127.0.0.1 calendarsync-pa.googleapis.com
-127.0.0.1 tasks-pa.googleapis.com
-127.0.0.1 paymentsincentives-pa.googleapis.com
-127.0.0.1 paisafs-pa.googleapis.com
-127.0.0.1 india-paisa-pa.googleapis.com
-127.0.0.1 firebaseinstallations.googleapis.com
-127.0.0.1 financeplatformfrontend-pa.googleapis.com
-127.0.0.1 gpayads-pa.googleapis.com
-127.0.0.1 india-consumerpayment-pa.googleapis.com
-127.0.0.1 notes-pa.googleapis.com
-127.0.0.1 workspacevideo-pa.googleapis.com
-127.0.0.1 subscriptionsmanagement-pa.googleapis.com
-127.0.0.1 subscriptionsfirstparty-pa.googleapis.com
-127.0.0.1 scone-pa.googleapis.com
-127.0.0.1 peoplestack-pa.googleapis.com
-127.0.0.1 drivefrontend-pa.googleapis.com
-127.0.0.1 appsgenaiserver-pa.googleapis.com
-127.0.0.1 auditrecording-pa.googleapis.com
+127.0.0.1 googleapis.com
+firebaselogging.googleapis.com
+content-autofill.googleapis.com
+play-fe.googleapis.com
+playstoregatewayadapter-pa.googleapis.com
+prod-lt-playstoregatewayadapter-pa.googleapis.com
+readaloud.googleapis.com
+safebrowsing.googleapis.com
+optimizationguide-pa.googleapis.com
+clientservices.googleapis.com
+xgapromomanager-pa.googleapis.com
+searchnotifications-pa.googleapis.com
+geller-pa.googleapis.com
+firebaseremoteconfigrealtime.googleapis.com
+fonts.googleapis.com
+android.googleapis.com
+lamssettings-pa.googleapis.com
+people-pa.googleapis.com
+play.googleapis.com
+update.googleapis.com
+accountsettingsmobile-pa.googleapis.com
+appsgrowthpromo-pa.googleapis.com
+cloudconfig.googleapis.com
+deviceintegritytokens-pa.googleapis.com
+digitalassetlinks.googleapis.com
+firebaseremoteconfig.googleapis.com
+footprints-pa.googleapis.com
+instantmessaging-pa.googleapis.com
+instantmessaging-pa-jms-ap.googleapis.com
+memex-pa.googleapis.com
+pay-users-pa.googleapis.com
+phonedeviceverification-pa.googleapis.com
+photosdata-pa.googleapis.com
+securitydomain-pa.googleapis.com
+taskassist-pa.googleapis.com
+voledevice-pa.googleapis.com
+www.googleapis.com
+youtubei.googleapis.com
+proactivebackend-pa.googleapis.com
+androidpay-users-pa.googleapis.com
+androidplatformbackuprestore-pa.googleapis.com
+feedback-pa.googleapis.com
+flexagon-pa.googleapis.com
+locationhistory-pa.googleapis.com
+clientauthconfig.googleapis.com
+contactsui-pa.googleapis.com
+calendarsync-pa.googleapis.com
+tasks-pa.googleapis.com
+paymentsincentives-pa.googleapis.com
+paisafs-pa.googleapis.com
+india-paisa-pa.googleapis.com
+firebaseinstallations.googleapis.com
+financeplatformfrontend-pa.googleapis.com
+gpayads-pa.googleapis.com
+india-consumerpayment-pa.googleapis.com
+notes-pa.googleapis.com
+workspacevideo-pa.googleapis.com
+subscriptionsmanagement-pa.googleapis.com
+subscriptionsfirstparty-pa.googleapis.com
+scone-pa.googleapis.com
+peoplestack-pa.googleapis.com
+drivefrontend-pa.googleapis.com
+appsgenaiserver-pa.googleapis.com
+auditrecording-pa.googleapis.com
 # [salltry.com]
 127.0.0.1 *.shalltry.com
 127.0.0.1 ind-oneid.shalltry.com
