@@ -18,8 +18,10 @@
 # Contribute:
 # Create an issue at https://
 #
-# [githubusercontent.com]
+# [Adslist]
 raw.githubusercontent.com
+adaway.org
+pgl.yoyo.org
 # [googleapis.com]
 firebaselogging.googleapis.com
 content-autofill.googleapis.com
