@@ -134,3 +134,5 @@ raw.githubusercontent.com
 # [dns]
 127.0.0.1 one.one.one.one
 127.0.0.1 *.one.one
+#[collector.github.com]
+127.0.0.1 collector.github.com
