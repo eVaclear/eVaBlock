@@ -69,6 +69,11 @@ raw.githubusercontent.com
 127.0.0.1 www.googleapis.com
 127.0.0.1 youtubei.googleapis.com
 127.0.0.1 proactivebackend-pa.googleapis.com
+127.0.0.1 androidpay-users-pa.googleapis.com
+127.0.0.1 androidplatformbackuprestore-pa.googleapis.com
+127.0.0.1 feedback-pa.googleapis.com
+127.0.0.1 flexagon-pa.googleapis.com
+127.0.0.1 locationhistory-pa.googleapis.com
 # [salltry.com]
 127.0.0.1 shalltry.com
 127.0.0.1 ind-oneid.shalltry.com
@@ -83,6 +88,7 @@ raw.githubusercontent.com
 127.0.0.1 cloud-config-api.shalltry.com
 127.0.0.1 ind-app-manage-api.shalltry.com
 127.0.0.1 ins.shalltry.com
+127.0.0.1 osfeature.shalltry.com
 # [transsion-os.com]
 127.0.0.1 transsion-os.com
 127.0.0.1 ind-configuration.transsion-os.com
