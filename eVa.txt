@@ -85,7 +85,8 @@ raw.githubusercontent.com
 127.0.0.1 india-paisa-pa.googleapis.com
 127.0.0.1 firebaseinstallations.googleapis.com
 127.0.0.1 financeplatformfrontend-pa.googleapis.com
-
+127.0.0.1 gpayads-pa.googleapis.com
+127.0.0.1 india-consumerpayment-pa.googleapis.com
 # [salltry.com]
 127.0.0.1 shalltry.com
 127.0.0.1 ind-oneid.shalltry.com
