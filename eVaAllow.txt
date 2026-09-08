@@ -56,7 +56,6 @@ photosdata-pa.googleapis.com
 securitydomain-pa.googleapis.com
 taskassist-pa.googleapis.com
 voledevice-pa.googleapis.com
-www.googleapis.com
 youtubei.googleapis.com
 proactivebackend-pa.googleapis.com
 androidpay-users-pa.googleapis.com
