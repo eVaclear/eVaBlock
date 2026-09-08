@@ -122,3 +122,6 @@ raw.githubusercontent.com
 127.0.0.1 api16-access-ttp-b.tiktokpangle-b.us
 # [icanhazip.com]
 127.0.0.1 icanhazip.com
+# [dns]
+127.0.0.1 one.one.one.one
+127.0.0.1 *.arpa
