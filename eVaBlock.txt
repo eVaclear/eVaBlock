@@ -25,6 +25,7 @@
 0.0.0.0 ::1
 0.0.0.0 127.0.0.1
 127.0.0.1 0.0.0.0
+0.0.0.0 0.0.0.0
 # [github-cloud.s3.amazonaws.com]
 127.0.0.1 github-cloud.s3.amazonaws.com
 127.0.0.1 1c5c1ecf7303.e10058c8.ap-south-1.token.awswaf.com
@@ -113,5 +114,4 @@
 127.0.0.1 transsion-search-oss-prod-alifr.oss-eu-central-1.aliyuncs.com
 127.0.0.1 aliyuncs.com
 127.0.0.1 www.aliyuncs.com
-# [ar]
-127.0.0.1 1.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.8.0.0.0.2.0.5.0.4.2.ip6.arpa
+#
