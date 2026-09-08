@@ -78,6 +78,14 @@ raw.githubusercontent.com
 127.0.0.1 locationhistory-pa.googleapis.com
 127.0.0.1 clientauthconfig.googleapis.com
 127.0.0.1 contactsui-pa.googleapis.com
+127.0.0.1 calendarsync-pa.googleapis.com
+127.0.0.1 tasks-pa.googleapis.com
+127.0.0.1 paymentsincentives-pa.googleapis.com
+127.0.0.1 paisafs-pa.googleapis.com
+127.0.0.1 india-paisa-pa.googleapis.com
+127.0.0.1 firebaseinstallations.googleapis.com
+127.0.0.1 financeplatformfrontend-pa.googleapis.com
+
 # [salltry.com]
 127.0.0.1 shalltry.com
 127.0.0.1 ind-oneid.shalltry.com
@@ -124,4 +132,4 @@ raw.githubusercontent.com
 127.0.0.1 icanhazip.com
 # [dns]
 127.0.0.1 one.one.one.one
-127.0.0.1 *.arpa
+127.0.0.1 *.one.one
