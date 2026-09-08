@@ -169,3 +169,5 @@ raw.githubusercontent.com
 # [clarity.ms]
 127.0.0.1 t.clarity.ms
 127.0.0.1 *.clarity.ms
+# [aliyuncs.com]
+127.0.0.1 transsion-search-oss-prod-alifr.oss-eu-central-1.aliyuncs.com
