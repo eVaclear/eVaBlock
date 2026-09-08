@@ -86,3 +86,4 @@ drivefrontend-pa.googleapis.com
 appsgenaiserver-pa.googleapis.com
 auditrecording-pa.googleapis.com
 crashlyticsreports-pa.googleapis.com
+firebaselogging-pa.googleapis.com
