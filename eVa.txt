@@ -77,6 +77,7 @@ raw.githubusercontent.com
 127.0.0.1 flexagon-pa.googleapis.com
 127.0.0.1 locationhistory-pa.googleapis.com
 127.0.0.1 clientauthconfig.googleapis.com
+127.0.0.1 contactsui-pa.googleapis.com
 # [salltry.com]
 127.0.0.1 shalltry.com
 127.0.0.1 ind-oneid.shalltry.com
