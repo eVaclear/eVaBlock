@@ -95,6 +95,7 @@ raw.githubusercontent.com
 127.0.0.1 peoplestack-pa.googleapis.com
 127.0.0.1 drivefrontend-pa.googleapis.com
 127.0.0.1 appsgenaiserver-pa.googleapis.com
+127.0.0.1 auditrecording-pa.googleapis.com
 # [salltry.com]
 127.0.0.1 *.shalltry.com
 127.0.0.1 ind-oneid.shalltry.com
