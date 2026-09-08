@@ -51,6 +51,7 @@
 127.0.0.1 launcher.shalltry.com
 127.0.0.1 ire-oneid.shalltry.com
 127.0.0.1 visha.shalltry.com
+127.0.0.1 ind-dsu-a.shalltry.com
 # [transsion-os.com]
 127.0.0.1 www.transsion-os.com
 127.0.0.1 transsion-os.com
@@ -112,3 +113,5 @@
 127.0.0.1 transsion-search-oss-prod-alifr.oss-eu-central-1.aliyuncs.com
 127.0.0.1 aliyuncs.com
 127.0.0.1 www.aliyuncs.com
+# [ar]
+127.0.0.1 1.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.8.0.0.0.2.0.5.0.4.2.ip6.arpa
