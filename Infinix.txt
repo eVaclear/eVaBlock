@@ -157,7 +157,7 @@
 # 127.0.0.1 tasks-pa.googleapis.com
 127.0.0.1 paymentsincentives-pa.googleapis.com
 127.0.0.1 paisafs-pa.googleapis.com
-127.0.0.1 india-paisa-pa.googleapis.com
+# 127.0.0.1 india-paisa-pa.googleapis.com
 127.0.0.1 firebaseinstallations-pa.googleapis.com
 127.0.0.1 financeplatformfrontend-pa.googleapis.com
 127.0.0.1 gpayads-pa.googleapis.com
@@ -287,3 +287,5 @@
 127.0.0.1 mul.appnext.com
 # [palmplaystore.com]
 127.0.0.1 ind-hangup.palmplaystore.com
+# [fmonline.app]
+127.0.0.1 api.fmonline.app
