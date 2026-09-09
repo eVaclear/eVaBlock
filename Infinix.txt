@@ -1,11 +1,11 @@
-# eVaBlock default blocklist
+# Infinix blocklist
 # Blocking mobile ad providers and some analytics providers
 #
 # Project home page:
 # https://
 #
 # Fetch the latest version of this file:
-# https://raw.githubusercontent.com/eVaclear/eVaBlock/refs/heads/main/eVaBlock.txt
+# https://raw.githubusercontent.com/eVaclear/eVaBlock/refs/heads/main/Infinix.txt
 #
 # License:
 # CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
@@ -26,7 +26,8 @@
 0.0.0.0 127.0.0.1
 127.0.0.1 0.0.0.0
 0.0.0.0 0.0.0.0
-# [github-cloud.s3.amazonaws.com]
+127.0.0.1 1.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.8.0.0.0.2.0.5.0.4.2.ip6.arpa
+# [amazonaws]
 127.0.0.1 github-cloud.s3.amazonaws.com
 127.0.0.1 1c5c1ecf7303.e10058c8.ap-south-1.token.awswaf.com
 # [googleapis.com]
@@ -53,12 +54,14 @@
 127.0.0.1 ire-oneid.shalltry.com
 127.0.0.1 visha.shalltry.com
 127.0.0.1 ind-dsu-a.shalltry.com
+127.0.0.1 ind-searchbox.shalltry.com
 # [transsion-os.com]
 127.0.0.1 www.transsion-os.com
 127.0.0.1 transsion-os.com
 127.0.0.1 ind-configuration.transsion-os.com
 # [ip-api.com]
 127.0.0.1 ip-api.com
+127.0.0.1 www.ip-api.com
 # [fastly-edge.com]
 127.0.0.1 ohttp-relay-safebrowsing-android.google.fastly-edge.com
 # [boyuanhulian.com]
@@ -75,18 +78,19 @@
 # [app-measurement.com]
 127.0.0.1 app-measurement.com
 127.0.0.1 www.app-measurement.com
-# [gvt-cn.com]
-127.0.0.1 redirector.gvt1-cn.com
 # [tiktokpangle-b.us]
 127.0.0.1 api16-access-ttp-b.tiktokpangle-b.us
 127.0.0.1 tiktokpangle-b.us
 127.0.0.1 www.tiktokpangle.us
+127.0.0.1 tiktokpangle.us
+127.0.0.1 www.tiktokpangle-b.us
 # [icanhazip.com]
 127.0.0.1 icanhazip.com
 127.0.0.1 www.icanhazip.com
 # [dns]
 127.0.0.1 one.one.one.one
 127.0.0.1 www.one.one
+127.0.0.1 one.one
 # [collector.github.com]
 127.0.0.1 collector.github.com
 # [ntp]
@@ -95,9 +99,11 @@
 127.0.0.1 ntp.org
 127.0.0.1 www.ntp.org
 127.0.0.1 ntppool.org
+127.0.0.1 pool.ntp.org
 # [eagllwin.com]
 127.0.0.1 material-static-oss.eagllwin.com
 127.0.0.1 www.eagllwin.com
+127.0.0.1 eagllwin.com
 # [mobi]
 127.0.0.1 www.nma.mobi
 127.0.0.1 nma.mobi
@@ -107,11 +113,20 @@
 127.0.0.1 cc-api.hisavana.com
 127.0.0.1 api.hisavana.com
 127.0.0.1 www.hisavana.com
+127.0.0.1 hisavana.com
 # [clarity.ms]
 127.0.0.1 t.clarity.ms
+127.0.0.1 clarity.ms
 127.0.0.1 www.clarity.ms
 # [aliyuncs.com]
 127.0.0.1 transsion-search-oss-prod-alifr.oss-eu-central-1.aliyuncs.com
 127.0.0.1 aliyuncs.com
 127.0.0.1 www.aliyuncs.com
-#
+# [xshareapp.com]
+127.0.0.1 common.xshareapp.com
+127.0.0.1 xshareapp.com
+127.0.0.1 www.xshareapp.com
+# [dlightek.com]
+127.0.0.1 gslb.dlightek.com
+127.0.0.1 dlightek.com
+127.0.0.1 www.dlightek.com
