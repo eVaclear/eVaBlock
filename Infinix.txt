@@ -41,7 +41,6 @@
 # [googleapis.com]
 127.0.0.1 googleapis.com
 127.0.0.1 www.googleapis.com
-127.0.0.1 firebaselogging.googleapis.com
 127.0.0.1 firebaselogging-pa.googleapis.com
 127.0.0.1 content-autofill.googleapis.com
 127.0.0.1 content-autofill-pa.googleapis.com
