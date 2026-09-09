@@ -67,6 +67,7 @@
 127.0.0.1 prod-lt-playstoregatewayadapter.googleapis.com
 127.0.0.1 workspacevideo.googleapis.com
 127.0.0.1 workspacevideo-pa.googleapis.com
+127.0.0.1 play-fe.googleapis.com
 # [salltry.com]
 127.0.0.1 shalltry.com
 127.0.0.1 www.shalltry.com
