@@ -153,8 +153,8 @@
 127.0.0.1 locationhistory-pa.googleapis.com
 127.0.0.1 clientauthconfig-pa.googleapis.com
 127.0.0.1 contactsui-pa.googleapis.com
-127.0.0.1 calendarsync-pa.googleapis.com
-127.0.0.1 tasks-pa.googleapis.com
+# 127.0.0.1 calendarsync-pa.googleapis.com
+# 127.0.0.1 tasks-pa.googleapis.com
 127.0.0.1 paymentsincentives-pa.googleapis.com
 127.0.0.1 paisafs-pa.googleapis.com
 127.0.0.1 india-paisa-pa.googleapis.com
