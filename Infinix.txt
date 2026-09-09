@@ -55,7 +55,6 @@
 127.0.0.1 proactivebackend-pa.googleapis.com
 127.0.0.1 cloudconfig.googleapis.com
 127.0.0.1 cloudconfig-pa.googleapis.com
-127.0.0.1 android.googleapis.com
 127.0.0.1 android-pa.googleapis.com
 127.0.0.1 crashlyticsreports-pa.googleapis.com
 127.0.0.1 crashlyticsreports.googleapis.com
