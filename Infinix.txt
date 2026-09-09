@@ -107,6 +107,7 @@
 127.0.0.1 signaler.googleapis.com
 127.0.0.1 robinfrontend.googleapis.com
 127.0.0.1 ogads.googleapis.com
+127.0.0.1 mobilemaps-gz.googleapis.com
 * [Programmatic Access]
 127.0.0.1 firebaselogging-pa.googleapis.com
 127.0.0.1 content-autofill-pa.googleapis.com
@@ -175,6 +176,7 @@
 127.0.0.1 signaler-pa.googleapis.com
 127.0.0.1 robinfrontend-pa.googleapis.com
 127.0.0.1 ogads-pa.googleapis.com
+127.0.0.1 mobilemaps-pa-gz.googleapis.com
 # [salltry.com]
 127.0.0.1 shalltry.com
 127.0.0.1 www.shalltry.com
