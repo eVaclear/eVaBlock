@@ -102,6 +102,7 @@
 127.0.0.1 pool.ntp.org
 # [eagllwin.com]
 127.0.0.1 material-static-oss.eagllwin.com
+127.0.0.1 ind-aws-thirdback.eagllwin.com
 127.0.0.1 www.eagllwin.com
 127.0.0.1 eagllwin.com
 # [mobi]
@@ -130,3 +131,8 @@
 127.0.0.1 gslb.dlightek.com
 127.0.0.1 dlightek.com
 127.0.0.1 www.dlightek.com
+# [novabeyond.com]
+127.0.0.1 bidder-win.novabeyond.com
+127.0.0.1 bidder-win.novabeyond.com
+# [appnext.com]
+127.0.0.1 mul.appnext.com
