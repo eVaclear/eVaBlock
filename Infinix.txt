@@ -44,8 +44,13 @@
 127.0.0.1 firebaselogging.googleapis.com
 127.0.0.1 firebaselogging-pa.googleapis.com
 127.0.0.1 content-autofill.googleapis.com
+127.0.0.1 content-autofill-pa.googleapis.com
 127.0.0.1 firebaseremoteconfig.googleapis.com
 127.0.0.1 firebaseremoteconfig-pa.googleapis.com
+127.0.0.1 firebaseremoteconfigrealtime.googleapis.com
+127.0.0.1 firebaseremoteconfigrealtime-pa.googleapis.com
+127.0.0.1 instantmessaging-pa.googleapis.com
+127.0.0.1 proactivebackend-pa.googleapis.com
 # [salltry.com]
 127.0.0.1 shalltry.com
 127.0.0.1 www.shalltry.com
