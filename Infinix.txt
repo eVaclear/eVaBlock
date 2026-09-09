@@ -63,10 +63,15 @@
 127.0.0.1 visha.shalltry.com
 127.0.0.1 ind-dsu-a.shalltry.com
 127.0.0.1 ind-searchbox.shalltry.com
+127.0.0.1 ind-mis-carl.shalltry.com
+# [shallspark.com]
+127.0.0.1 ire-dsc.shallspark.com
 # [transsion-os.com]
 127.0.0.1 www.transsion-os.com
 127.0.0.1 transsion-os.com
 127.0.0.1 ind-configuration.transsion-os.com
+127.0.0.1 hk-paas.transsion.com
+127.0.0.1 aicc-hk.transsion.com
 # [ip-api.com]
 127.0.0.1 ip-api.com
 127.0.0.1 www.ip-api.com
@@ -113,6 +118,7 @@
 127.0.0.1 ind-aws-thirdback.eagllwin.com
 127.0.0.1 www.eagllwin.com
 127.0.0.1 eagllwin.com
+127.0.0.1 h5.eagllwin.com
 # [mobi]
 127.0.0.1 www.nma.mobi
 127.0.0.1 nma.mobi
