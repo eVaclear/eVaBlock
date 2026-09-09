@@ -41,6 +41,7 @@
 # [googleapis.com]
 127.0.0.1 googleapis.com
 127.0.0.1 www.googleapis.com
+127.0.0.1 firebaselogging.googleapis.com
 127.0.0.1 firebaselogging-pa.googleapis.com
 127.0.0.1 content-autofill.googleapis.com
 127.0.0.1 content-autofill-pa.googleapis.com
@@ -54,12 +55,12 @@
 127.0.0.1 proactivebackend-pa.googleapis.com
 127.0.0.1 cloudconfig.googleapis.com
 127.0.0.1 cloudconfig-pa.googleapis.com
+127.0.0.1 android.googleapis.com
 127.0.0.1 android-pa.googleapis.com
 127.0.0.1 crashlyticsreports-pa.googleapis.com
 127.0.0.1 crashlyticsreports.googleapis.com
 127.0.0.1 digitalassetlinks.googleapis.com
 127.0.0.1 digitalassetlinks-pa.googleapis.com
-127.0.0.1 safebrowsing.googleapis.com
 127.0.0.1 safebrowsing-pa.googleapis.com
 127.0.0.1 searchnotifications.googleapis.com
 127.0.0.1 searchnotifications-pa.googleapis.com
@@ -67,7 +68,7 @@
 127.0.0.1 prod-lt-playstoregatewayadapter.googleapis.com
 127.0.0.1 workspacevideo.googleapis.com
 127.0.0.1 workspacevideo-pa.googleapis.com
-127.0.0.1 play-fe.googleapis.com
+127.0.0.1 play-pa.googleapis.com
 # [salltry.com]
 127.0.0.1 shalltry.com
 127.0.0.1 www.shalltry.com
