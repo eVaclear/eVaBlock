@@ -51,6 +51,10 @@
 127.0.0.1 firebaseremoteconfigrealtime-pa.googleapis.com
 127.0.0.1 instantmessaging-pa.googleapis.com
 127.0.0.1 proactivebackend-pa.googleapis.com
+127.0.0.1 cloudconfig.googleapis.com
+127.0.0.1 cloudconfig-pa.googleapis.com
+127.0.0.1 android.googleapis.com
+127.0.0.1 android-pa.googleapis.com
 # [salltry.com]
 127.0.0.1 shalltry.com
 127.0.0.1 www.shalltry.com
@@ -139,6 +143,7 @@
 127.0.0.1 api.hisavana.com
 127.0.0.1 www.hisavana.com
 127.0.0.1 hisavana.com
+127.0.0.1 cm-oss.hisavana.com
 # [clarity.ms]
 127.0.0.1 t.clarity.ms
 127.0.0.1 clarity.ms
