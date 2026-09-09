@@ -43,7 +43,7 @@
 127.0.0.1 www.googleapis.com
 127.0.0.1 firebaselogging.googleapis.com
 127.0.0.1 content-autofill.googleapis.com
-# 127.0.0.1 play-fe.googleapis.com
+127.0.0.1 play-fe.googleapis.com
 127.0.0.1 playstoregatewayadapter.googleapis.com
 127.0.0.1 prod-lt-playstoregatewayadapter.googleapis.com
 127.0.0.1 readaloud.googleapis.com
@@ -55,10 +55,10 @@
 127.0.0.1 geller.googleapis.com
 127.0.0.1 firebaseremoteconfigrealtime.googleapis.com
 127.0.0.1 fonts.googleapis.com
-# 127.0.0.1 android.googleapis.com
+127.0.0.1 android.googleapis.com
 127.0.0.1 lamssettings.googleapis.com
 127.0.0.1 people.googleapis.com
-# 127.0.0.1 play.googleapis.com
+127.0.0.1 play.googleapis.com
 127.0.0.1 update.googleapis.com
 127.0.0.1 accountsettingsmobile.googleapis.com
 127.0.0.1 appsgrowthpromo.googleapis.com
@@ -109,7 +109,7 @@
 127.0.0.1 ogads.googleapis.com
 127.0.0.1 mobilemaps-gz.googleapis.com
 127.0.0.1 notifications.googleapis.com
-* [Programmatic Access]
+# [Programmatic Access]
 127.0.0.1 firebaselogging-pa.googleapis.com
 127.0.0.1 content-autofill-pa.googleapis.com
 127.0.0.1 play-fe-pa.googleapis.com
@@ -155,11 +155,11 @@
 127.0.0.1 locationhistory-pa.googleapis.com
 127.0.0.1 clientauthconfig-pa.googleapis.com
 127.0.0.1 contactsui-pa.googleapis.com
-# 127.0.0.1 calendarsync-pa.googleapis.com
-# 127.0.0.1 tasks-pa.googleapis.com
+127.0.0.1 calendarsync-pa.googleapis.com
+127.0.0.1 tasks-pa.googleapis.com
 127.0.0.1 paymentsincentives-pa.googleapis.com
 127.0.0.1 paisafs-pa.googleapis.com
-# 127.0.0.1 india-paisa-pa.googleapis.com
+127.0.0.1 india-paisa-pa.googleapis.com
 127.0.0.1 firebaseinstallations-pa.googleapis.com
 127.0.0.1 financeplatformfrontend-pa.googleapis.com
 127.0.0.1 gpayads-pa.googleapis.com
@@ -178,7 +178,7 @@
 127.0.0.1 robinfrontend-pa.googleapis.com
 127.0.0.1 ogads-pa.googleapis.com
 127.0.0.1 mobilemaps-pa-gz.googleapis.com
-# 127.0.0.1 notifications-pa.googleapis.com
+127.0.0.1 notifications-pa.googleapis.com
 # [salltry.com]
 127.0.0.1 shalltry.com
 127.0.0.1 www.shalltry.com
