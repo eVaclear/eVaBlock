@@ -27,9 +27,15 @@
 127.0.0.1 0.0.0.0
 0.0.0.0 0.0.0.0
 127.0.0.1 1.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.8.0.0.0.2.0.5.0.4.2.ip6.arpa
-# [amazonaws]
+# [cloud]
 127.0.0.1 github-cloud.s3.amazonaws.com
+127.0.0.1 s3.eu-west-1.amazonaws.com
 127.0.0.1 1c5c1ecf7303.e10058c8.ap-south-1.token.awswaf.com
+127.0.0.1 1400271387l4c.my-imcloud.com
+127.0.0.1 shortconn.im.qcloud.com
+127.0.0.1 d2hvpft15iz0rl.cloudfront.net
+127.0.0.1 d349agsydw2cg8.cloudfront.net
+127.0.0.1 d68luynop3unm.cloudfront.net
 # [googleapis.com]
 127.0.0.1 googleapis.com
 127.0.0.1 www.googleapis.com
