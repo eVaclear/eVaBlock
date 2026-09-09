@@ -108,6 +108,7 @@
 127.0.0.1 robinfrontend.googleapis.com
 127.0.0.1 ogads.googleapis.com
 127.0.0.1 mobilemaps-gz.googleapis.com
+127.0.0.1 notifications.googleapis.com
 * [Programmatic Access]
 127.0.0.1 firebaselogging-pa.googleapis.com
 127.0.0.1 content-autofill-pa.googleapis.com
@@ -177,6 +178,7 @@
 127.0.0.1 robinfrontend-pa.googleapis.com
 127.0.0.1 ogads-pa.googleapis.com
 127.0.0.1 mobilemaps-pa-gz.googleapis.com
+# 127.0.0.1 notifications-pa.googleapis.com
 # [salltry.com]
 127.0.0.1 shalltry.com
 127.0.0.1 www.shalltry.com
