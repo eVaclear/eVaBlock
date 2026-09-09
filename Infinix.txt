@@ -36,6 +36,8 @@
 127.0.0.1 d2hvpft15iz0rl.cloudfront.net
 127.0.0.1 d349agsydw2cg8.cloudfront.net
 127.0.0.1 d68luynop3unm.cloudfront.net
+127.0.0.1 short.my-imcloud.com
+127.0.0.1 login.im.qcloud.com
 # [googleapis.com]
 127.0.0.1 googleapis.com
 127.0.0.1 www.googleapis.com
