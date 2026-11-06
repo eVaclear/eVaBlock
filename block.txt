@@ -1,2 +1,6 @@
 # block
 127.0.0.1 shalltry.com
+
+# Redirect
+:: 127.0.0.1
+127.0.0.1 ::
