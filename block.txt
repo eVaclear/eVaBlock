@@ -62,6 +62,9 @@
 127.0.0.1 mtalk.google.com
 127.0.0.1 mobile-gtalk.l.google.com
 127.0.0.1 substrate.office.com
+127.0.0.1 graph.facebook.com
+127.0.0.1 graph.whatsapp.net
+127.0.0.1 star.c10r.facebook.com
 #
 # Redirect
 :: 127.0.0.1
