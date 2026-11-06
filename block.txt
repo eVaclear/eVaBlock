@@ -1,5 +1,6 @@
 # block
 127.0.0.1 shalltry.com
+127.0.0.1 api-ai-ireland.aibotplatform.com
 
 # Redirect
 :: 127.0.0.1
