@@ -1,90 +1,266 @@
-# block
-127.0.0.1 shalltry.com
-127.0.0.1 ind-oneid.shalltry.com
-127.0.0.1 af.shalltry.com
-127.0.0.1 api-ai-ireland.aibotplatform.com
-127.0.0.1 open.boomplaymusic.com
-127.0.0.1 gslb.shalltry.com
-127.0.0.1 g.whatsapp.net
-127.0.0.1 u855cyvod.v.enacdn.net
-127.0.0.1 ind-dsu.shalltry.com
-127.0.0.1 d2wa4x7eimvn0h.cloudfront.net
-127.0.0.1 firebaselogging-pa.googleapis.com
-127.0.0.1 playstoregatewayadapter-pa.googleapis.com
-127.0.0.1 prod-lt-playstoregatewayadapter-pa.googleapis.com
-127.0.0.1 www.googleapis.com
-127.0.0.1 collector.github.com
-127.0.0.1 vortex.data.microsoft.com
-127.0.0.1 incoming.telemetry.mozilla.org
-127.0.0.1 mozilla.cloudflare-dns.com
-127.0.0.1 firebaseremoteconfig.googleapis.com
-127.0.0.1 firebaselogging.googleapis.com
-127.0.0.1 o30969.ingest.us.sentry.io
-127.0.0.1 fonts.googleapis.com
-127.0.0.1 clientservices.googleapis.com
-127.0.0.1 ind-osupdate2020.shalltry.com
-127.0.0.1 ind-dsu-a.shalltry.com
-127.0.0.1 cm-oss.hisavana.com
-127.0.0.1 content-autofill.googleapis.com
-127.0.0.1 safebrowsing.googleapis.com
-127.0.0.1 cloud-config-api.shalltry.com
-127.0.0.1 ind-app-manage-api.shalltry.com
-127.0.0.1 in.appcenter.ms
-127.0.0.1 tpc.googlesyndication.com
-127.0.0.1 ohttp-relay-safebrowsing-android.google.fastly-edge.com
-127.0.0.1 openapi-bigdata.shalltry.com
-127.0.0.1 firebaseremoteconfigrealtime.googleapis.com
-127.0.0.1 mobileconfiguration-pa.googleapis.com
-127.0.0.1 api16-access-wf-sg.pangle-b.io
-127.0.0.1 api16-access-wf-sg.pangle.io
-127.0.0.1 api16-dual-event-sg2.pangle.io
-127.0.0.1 api16-access-ttp.tiktokpangle.us
-127.0.0.1 sf16-static.i18n-pglstatp.com
-127.0.0.1 firebase-settings.crashlytics.com
-127.0.0.1 www.hippoobox.com
-127.0.0.1 alb-pxe55n7y72ialz6c9g.eu-central-1.alb.aliyuncsslbintl.com
-127.0.0.1 sf16-static.i18n-pglstatp.com
-127.0.0.1 api.hisavana.com
-127.0.0.1 cuting-static.ahagamecenter.com
-127.0.0.1 api.galileoab.com
-127.0.0.1 dynamic.x.com.cdn.cloudflare.net
-127.0.0.1 ind-pvp.ahagamecenter.com
-127.0.0.1 ind-hangup.palmplaystore.com
-127.0.0.1 default.exp-tas.com
-127.0.0.1 0.datadog.pool.ntp.org
-127.0.0.1 1.datadog.pool.ntp.org
-127.0.0.1 2.datadog.pool.ntp.org
-127.0.0.1 pool.ntp.org
-127.0.0.1 browser-intake-us5-datadoghq.com
-127.0.0.1 api3.siftscience.com
-127.0.0.1 app-measurement.com
-127.0.0.1 ind-timer-feature-api.palmplaystore.com
-127.0.0.1 mtalk.google.com
-127.0.0.1 mobile-gtalk.l.google.com
-127.0.0.1 substrate.office.com
-127.0.0.1 graph.facebook.com
-127.0.0.1 graph.whatsapp.net
-127.0.0.1 star.c10r.facebook.com
-#
-# Redirect
-:: 127.0.0.1
-::1 ::
+# ============================================================
+#  CUSTOM BLOCK LIST  |  v2.1  |  Updated 2026-11-07
+#  Format: hosts file (0.0.0.0 = fail instantly)
+#  Note: hosts files do NOT block subdomains, so key
+#  subdomains are listed individually.
+#  Optional section at the bottom is disabled by default.
+# ============================================================
+
 127.0.0.1 localhost
 ::1 localhost
-0.0.0.0 ::1
-0 0.0.0.0
-#
-127.0.0.1 10
-127.0.0.1 192
-127.0.0.1 198
-127.0.0.1 8
-127.0.0.1 1
-127.0.0.1 2
-127.0.0.1 3
-127.0.0.1 4
-127.0.0.1 5
-127.0.0.1 6
-127.0.0.1 7
-127.0.0.1 8
-127.0.0.1 9
-127.0.0.1 11
+
+# ===== MALWARE: CRYPTO MINERS =====
+0.0.0.0 coinhive.com
+0.0.0.0 coin-hive.com
+0.0.0.0 authedmine.com
+0.0.0.0 jsecoin.com
+0.0.0.0 crypto-loot.com
+
+# ===== VENDOR TELEMETRY / PRE-INSTALLED ADS =====
+
+# Transsion (Tecno / Infinix / itel) / Shalltry / Palmplay / Hisavana
+0.0.0.0 shalltry.com
+0.0.0.0 ind-oneid.shalltry.com
+0.0.0.0 af.shalltry.com
+0.0.0.0 gslb.shalltry.com
+0.0.0.0 ind-dsu.shalltry.com
+0.0.0.0 ind-dsu-a.shalltry.com
+0.0.0.0 ind-osupdate2020.shalltry.com
+0.0.0.0 cloud-config-api.shalltry.com
+0.0.0.0 ind-app-manage-api.shalltry.com
+0.0.0.0 openapi-bigdata.shalltry.com
+0.0.0.0 cm-oss.hisavana.com
+0.0.0.0 api.hisavana.com
+0.0.0.0 www.hippoobox.com
+0.0.0.0 ind-hangup.palmplaystore.com
+0.0.0.0 ind-timer-feature-api.palmplaystore.com
+0.0.0.0 ind-pvp.ahagamecenter.com
+0.0.0.0 cuting-static.ahagamecenter.com
+0.0.0.0 open.boomplaymusic.com
+
+# Xiaomi / MIUI / HyperOS
+0.0.0.0 tracking.miui.com
+0.0.0.0 tracking.rus.miui.com
+0.0.0.0 data.mistat.xiaomi.com
+0.0.0.0 api.ad.xiaomi.com
+0.0.0.0 ad.xiaomi.com
+0.0.0.0 sdkconfig.ad.xiaomi.com
+
+# Oppo / Realme
+0.0.0.0 adx.ads.oppomobile.com
+0.0.0.0 data.ads.oppomobile.com
+0.0.0.0 bdapi-ads.realmemobile.com
+0.0.0.0 bdapi-in-ads.realmemobile.com
+
+# Huawei
+0.0.0.0 metrics.data.hicloud.com
+0.0.0.0 metrics2.data.hicloud.com
+
+# Samsung
+0.0.0.0 samsungads.com
+0.0.0.0 samsungacr.com
+0.0.0.0 log-config.samsungacr.com
+
+# Microsoft
+0.0.0.0 vortex.data.microsoft.com
+0.0.0.0 telemetry.microsoft.com
+0.0.0.0 watson.telemetry.microsoft.com
+0.0.0.0 settings-win.data.microsoft.com
+0.0.0.0 v10.events.data.microsoft.com
+0.0.0.0 browser.events.data.msn.com
+0.0.0.0 default.exp-tas.com
+0.0.0.0 substrate.office.com
+
+# ===== MISC TRACKERS / CDNs =====
+0.0.0.0 api-ai-ireland.aibotplatform.com
+0.0.0.0 u855cyvod.v.enacdn.net
+0.0.0.0 d2wa4x7eimvn0h.cloudfront.net
+0.0.0.0 alb-pxe55n7y72ialz6c9g.eu-central-1.alb.aliyuncsslbintl.com
+0.0.0.0 api.galileoab.com
+0.0.0.0 dynamic.x.com.cdn.cloudflare.net
+
+# ===== ADS: GOOGLE =====
+0.0.0.0 doubleclick.net
+0.0.0.0 www.doubleclick.net
+0.0.0.0 ad.doubleclick.net
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 securepubads.g.doubleclick.net
+0.0.0.0 stats.g.doubleclick.net
+0.0.0.0 googleadservices.com
+0.0.0.0 www.googleadservices.com
+0.0.0.0 pagead2.googleadservices.com
+0.0.0.0 googlesyndication.com
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 tpc.googlesyndication.com
+0.0.0.0 adservice.google.com
+0.0.0.0 googletagservices.com
+0.0.0.0 www.googletagservices.com
+
+# ===== ADS: NETWORKS =====
+0.0.0.0 adnxs.com
+0.0.0.0 adsrvr.org
+0.0.0.0 criteo.com
+0.0.0.0 taboola.com
+0.0.0.0 outbrain.com
+0.0.0.0 pubmatic.com
+0.0.0.0 rubiconproject.com
+0.0.0.0 openx.net
+0.0.0.0 moatads.com
+0.0.0.0 amazon-adsystem.com
+
+# Pangle (TikTok ads)
+0.0.0.0 api16-access-wf-sg.pangle-b.io
+0.0.0.0 api16-access-wf-sg.pangle.io
+0.0.0.0 api16-dual-event-sg2.pangle.io
+0.0.0.0 api16-access-ttp.tiktokpangle.us
+0.0.0.0 sf16-static.i18n-pglstatp.com
+
+# ===== MOBILE AD / ATTRIBUTION SDKs =====
+0.0.0.0 applovin.com
+0.0.0.0 unityads.unity3d.com
+0.0.0.0 ads.mopub.com
+0.0.0.0 supersonicads.com
+0.0.0.0 inmobi.com
+0.0.0.0 chartboost.com
+0.0.0.0 ads.api.vungle.com
+0.0.0.0 appsflyer.com
+0.0.0.0 adjust.com
+0.0.0.0 app.adjust.com
+0.0.0.0 flurry.com
+0.0.0.0 data.flurry.com
+
+# ===== ANALYTICS / BEHAVIOUR TRACKING =====
+0.0.0.0 google-analytics.com
+0.0.0.0 www.google-analytics.com
+0.0.0.0 ssl.google-analytics.com
+0.0.0.0 app-measurement.com
+0.0.0.0 scorecardresearch.com
+0.0.0.0 quantserve.com
+0.0.0.0 hotjar.com
+0.0.0.0 mixpanel.com
+0.0.0.0 api.mixpanel.com
+0.0.0.0 amplitude.com
+0.0.0.0 api.amplitude.com
+0.0.0.0 segment.io
+0.0.0.0 api.segment.io
+0.0.0.0 heapanalytics.com
+0.0.0.0 fullstory.com
+0.0.0.0 mouseflow.com
+0.0.0.0 logx.optimizely.com
+0.0.0.0 bam.nr-data.net
+0.0.0.0 mc.yandex.ru
+0.0.0.0 hm.baidu.com
+
+# ===== CRASH REPORTING / REMOTE CONFIG =====
+0.0.0.0 firebaselogging-pa.googleapis.com
+0.0.0.0 firebaselogging.googleapis.com
+0.0.0.0 firebaseremoteconfig.googleapis.com
+0.0.0.0 firebaseremoteconfigrealtime.googleapis.com
+0.0.0.0 firebase-settings.crashlytics.com
+0.0.0.0 o30969.ingest.us.sentry.io
+0.0.0.0 in.appcenter.ms
+0.0.0.0 notify.bugsnag.com
+0.0.0.0 sessions.bugsnag.com
+
+# ===== SOCIAL TRACKERS =====
+0.0.0.0 graph.facebook.com
+0.0.0.0 star.c10r.facebook.com
+0.0.0.0 an.facebook.com
+0.0.0.0 pixel.facebook.com
+0.0.0.0 analytics.tiktok.com
+0.0.0.0 log.byteoversea.com
+0.0.0.0 analytics.twitter.com
+0.0.0.0 static.ads-twitter.com
+0.0.0.0 ads-api.twitter.com
+0.0.0.0 px.ads.linkedin.com
+0.0.0.0 ct.pinterest.com
+0.0.0.0 tr.snapchat.com
+0.0.0.0 events.redditmedia.com
+
+# ===== OTHER TRACKING / FINGERPRINTING =====
+0.0.0.0 collector.github.com
+0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 browser-intake-us5-datadoghq.com
+0.0.0.0 api3.siftscience.com
+
+# ===== ADDED v2.1: AD EXCHANGES / DATA BROKERS =====
+0.0.0.0 advertising.com
+0.0.0.0 ads.yahoo.com
+0.0.0.0 analytics.yahoo.com
+0.0.0.0 bluekai.com
+0.0.0.0 demdex.net
+0.0.0.0 krxd.net
+0.0.0.0 everesttech.net
+0.0.0.0 casalemedia.com
+0.0.0.0 indexww.com
+0.0.0.0 33across.com
+0.0.0.0 smaato.net
+0.0.0.0 tapad.com
+0.0.0.0 sharethrough.com
+0.0.0.0 teads.tv
+0.0.0.0 bidswitch.net
+0.0.0.0 adform.net
+0.0.0.0 serving-sys.com
+0.0.0.0 mathtag.com
+0.0.0.0 rlcdn.com
+0.0.0.0 exelator.com
+0.0.0.0 agkn.com
+0.0.0.0 yieldmo.com
+0.0.0.0 addthis.com
+0.0.0.0 sharethis.com
+
+# ===== ADDED v2.1: MOBILE AD NETWORKS =====
+0.0.0.0 adcolony.com
+0.0.0.0 ironsrc.com
+0.0.0.0 startappservice.com
+0.0.0.0 tapjoy.com
+0.0.0.0 fyber.com
+0.0.0.0 mintegral.com
+
+# ===== ADDED v2.1: MICROSOFT / LINKEDIN TRACKING =====
+0.0.0.0 bat.bing.com
+0.0.0.0 c.clarity.ms
+0.0.0.0 snap.licdn.com
+
+# ===== ADDED v2.1: SITE ANALYTICS =====
+0.0.0.0 static.chartbeat.com
+
+# ============================================================
+#  OPTIONAL: DISABLED BY DEFAULT
+#  Blocking these can break apps. Remove the leading # to enable.
+# ============================================================
+
+# Google services (Play Store, sign-in, fonts, autofill)
+# 0.0.0.0 www.googleapis.com
+# 0.0.0.0 fonts.googleapis.com
+# 0.0.0.0 clientservices.googleapis.com
+# 0.0.0.0 content-autofill.googleapis.com
+# 0.0.0.0 mobileconfiguration-pa.googleapis.com
+# 0.0.0.0 playstoregatewayadapter-pa.googleapis.com
+# 0.0.0.0 prod-lt-playstoregatewayadapter-pa.googleapis.com
+
+# Push notifications (Android FCM)
+# 0.0.0.0 mtalk.google.com
+# 0.0.0.0 mobile-gtalk.l.google.com
+
+# Security (Safe Browsing)
+# 0.0.0.0 safebrowsing.googleapis.com
+# 0.0.0.0 ohttp-relay-safebrowsing-android.google.fastly-edge.com
+
+# WhatsApp connectivity
+# 0.0.0.0 g.whatsapp.net
+# 0.0.0.0 graph.whatsapp.net
+
+# Time sync (can cause clock drift / SSL errors)
+# 0.0.0.0 pool.ntp.org
+# 0.0.0.0 0.datadog.pool.ntp.org
+# 0.0.0.0 1.datadog.pool.ntp.org
+# 0.0.0.0 2.datadog.pool.ntp.org
+
+# Firefox DNS-over-HTTPS
+# 0.0.0.0 mozilla.cloudflare-dns.com
+
+# Tag manager / social login widgets / deep links
+# 0.0.0.0 googletagmanager.com
+# 0.0.0.0 connect.facebook.net
+# 0.0.0.0 branch.io
