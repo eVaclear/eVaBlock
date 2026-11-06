@@ -15,7 +15,15 @@
 127.0.0.1 www.googleapis.com
 127.0.0.1 collector.github.com
 127.0.0.1 vortex.data.microsoft.com
-
+127.0.0.1 incoming.telemetry.mozilla.org
+127.0.0.1 mozilla.cloudflare-dns.com
+127.0.0.1 firebaseremoteconfig.googleapis.com
+127.0.0.1 firebaselogging.googleapis.com
+127.0.0.1 o30969.ingest.us.sentry.io
+127.0.0.1 fonts.googleapis.com
+127.0.0.1 clientservices.googleapis.com
+127.0.0.1 twimg.twitter.map.fastly.net
+127.0.0.1 dualstack.video.twitter.map.fastly.net
 # Redirect
 :: 127.0.0.1
 127.0.0.1 ::
