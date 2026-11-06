@@ -13,6 +13,11 @@
 127.0.0.1 playstoregatewayadapter-pa.googleapis.com
 127.0.0.1 prod-lt-playstoregatewayadapter-pa.googleapis.com
 127.0.0.1 www.googleapis.com
+127.0.0.1 collector.github.com
+127.0.0.1 vortex.data.microsoft.com
+
 # Redirect
 :: 127.0.0.1
 127.0.0.1 ::
+127.0.0.1
+::
