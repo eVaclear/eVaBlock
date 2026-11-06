@@ -1,5 +1,5 @@
 # ============================================================
-#  CUSTOM BLOCK LIST  |  v2.1  |  Updated 2026-11-07
+#  CUSTOM BLOCK LIST  |  v2.4  |  Updated 2026-11-07
 #  Format: hosts file (0.0.0.0 = fail instantly)
 #  Note: hosts files do NOT block subdomains, so key
 #  subdomains are listed individually.
@@ -18,13 +18,20 @@
 
 # ===== VENDOR TELEMETRY / PRE-INSTALLED ADS =====
 
-# Transsion (Tecno / Infinix / itel) / Shalltry / Palmplay / Hisavana
+# Transsion OS (HiOS / XOS / itelOS: Tecno, Infinix, itel) / Shalltry / Palmplay / Hisavana
+# Note: Transsion uses many region-prefixed subdomains (e.g. ind-*). If an entry
+# is missing, add the exact subdomain from your DNS logs.
+0.0.0.0 api.shalltry.com
+0.0.0.0 log.shalltry.com
+0.0.0.0 stat.shalltry.com
 0.0.0.0 shalltry.com
 0.0.0.0 ind-oneid.shalltry.com
 0.0.0.0 af.shalltry.com
 0.0.0.0 gslb.shalltry.com
 0.0.0.0 ind-dsu.shalltry.com
 0.0.0.0 ind-dsu-a.shalltry.com
+0.0.0.0 ind-dsu-b.shalltry.com
+0.0.0.0 ind-dsc.shalltry.com
 0.0.0.0 ind-osupdate2020.shalltry.com
 0.0.0.0 cloud-config-api.shalltry.com
 0.0.0.0 ind-app-manage-api.shalltry.com
@@ -37,6 +44,39 @@
 0.0.0.0 ind-pvp.ahagamecenter.com
 0.0.0.0 cuting-static.ahagamecenter.com
 0.0.0.0 open.boomplaymusic.com
+0.0.0.0 hisavana.com
+0.0.0.0 transsnet.com
+0.0.0.0 palmplaystore.com
+0.0.0.0 ahagamecenter.com
+0.0.0.0 hippoobox.com
+0.0.0.0 track.hisavana.com
+0.0.0.0 log.hisavana.com
+0.0.0.0 events.hisavana.com
+
+# Transsion: verified additions (NowSecure, EasyList #13423, BlockListProject #819, StevenBlack #2091)
+0.0.0.0 transsion-os.com
+0.0.0.0 ire-dsu.shalltry.com
+0.0.0.0 ire-dsu-a.shalltry.com
+0.0.0.0 ire-dsu-b.shalltry.com
+0.0.0.0 ire-dsc.shalltry.com
+0.0.0.0 ire-oneid.shalltry.com
+0.0.0.0 restart-api.palmplaystore.com
+0.0.0.0 bizscene.palmplaystore.com
+0.0.0.0 api.ahagamecenter.com
+0.0.0.0 toolmatrix.plus
+0.0.0.0 apitm.toolmatrix.plus
+0.0.0.0 transacme.com
+0.0.0.0 msg.transacme.com
+0.0.0.0 app.transacme.com
+0.0.0.0 api.eagllwin.com
+0.0.0.0 gamegamb.com
+0.0.0.0 mars.gamegamb.com
+0.0.0.0 clog.geniex.com
+0.0.0.0 data-api.geniex.com
+0.0.0.0 irl-api.twibida.com
+0.0.0.0 common.xshareapp.com
+0.0.0.0 minigame.vip
+0.0.0.0 mini6g.com
 
 # Xiaomi / MIUI / HyperOS
 0.0.0.0 tracking.miui.com
@@ -70,6 +110,9 @@
 0.0.0.0 browser.events.data.msn.com
 0.0.0.0 default.exp-tas.com
 0.0.0.0 substrate.office.com
+0.0.0.0 mobile.events.data.microsoft.com
+0.0.0.0 ads.msn.com
+0.0.0.0 clarity.ms
 
 # ===== MISC TRACKERS / CDNs =====
 0.0.0.0 api-ai-ireland.aibotplatform.com
@@ -182,6 +225,16 @@
 0.0.0.0 incoming.telemetry.mozilla.org
 0.0.0.0 browser-intake-us5-datadoghq.com
 0.0.0.0 api3.siftscience.com
+0.0.0.0 api.segment.io
+0.0.0.0 cdn.segment.com
+0.0.0.0 api.mixpanel.com
+0.0.0.0 api.amplitude.com
+0.0.0.0 api2.amplitude.com
+0.0.0.0 api.branch.io
+0.0.0.0 app.link
+0.0.0.0 app.adjust.com
+0.0.0.0 app.appsflyer.com
+0.0.0.0 events.appsflyer.com
 
 # ===== ADDED v2.1: AD EXCHANGES / DATA BROKERS =====
 0.0.0.0 advertising.com
@@ -224,6 +277,42 @@
 
 # ===== ADDED v2.1: SITE ANALYTICS =====
 0.0.0.0 static.chartbeat.com
+
+# ===== ADDED v2.2: SUBDOMAINS HOSTS FILES DON'T COVER =====
+# (hosts files match exact names only, so these need their own lines)
+0.0.0.0 pubads.g.doubleclick.net
+0.0.0.0 static.doubleclick.net
+0.0.0.0 m.doubleclick.net
+0.0.0.0 mediavisor.doubleclick.net
+0.0.0.0 googleads4.g.doubleclick.net
+0.0.0.0 adclick.g.doubleclick.net
+0.0.0.0 partner.googleadservices.com
+0.0.0.0 region1.google-analytics.com
+0.0.0.0 ib.adnxs.com
+0.0.0.0 secure.adnxs.com
+0.0.0.0 sync.outbrain.com
+0.0.0.0 pixel.quantserve.com
+0.0.0.0 sb.scorecardresearch.com
+0.0.0.0 ad.atdmt.com
+0.0.0.0 bs.serving-sys.com
+0.0.0.0 track.adform.net
+0.0.0.0 cdn.segment.com
+0.0.0.0 js-agent.newrelic.com
+0.0.0.0 clickserve.dartsearch.net
+
+# ===== ADDED v2.2: AD VERIFICATION / AUDIENCE MEASUREMENT =====
+0.0.0.0 adsafeprotected.com
+0.0.0.0 doubleverify.com
+0.0.0.0 imrworldwide.com
+
+# ===== ADDED v2.2: MORE SOCIAL / PLATFORM TRACKERS =====
+0.0.0.0 alb.reddit.com
+0.0.0.0 pixel-config.reddit.com
+0.0.0.0 trk.pinterest.com
+0.0.0.0 ads.pinterest.com
+0.0.0.0 business-api.tiktok.com
+0.0.0.0 stats.wp.com
+0.0.0.0 pixel.wp.com
 
 # ============================================================
 #  OPTIONAL: DISABLED BY DEFAULT
