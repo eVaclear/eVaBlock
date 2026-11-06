@@ -59,10 +59,18 @@
 127.0.0.1 api3.siftscience.com
 127.0.0.1 app-measurement.com
 127.0.0.1 ind-timer-feature-api.palmplaystore.com
+127.0.0.1 mtalk.google.com
+127.0.0.1 mobile-gtalk.l.google.com
+127.0.0.1 substrate.office.com
 #
 # Redirect
 :: 127.0.0.1
-127.0.0.1 ::
+::1 ::
+127.0.0.1 localhost
+::1 localhost
+0.0.0.0 ::1
+0 0.0.0.0
+#
 127.0.0.1 10
 127.0.0.1 192
 127.0.0.1 198
