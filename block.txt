@@ -1,7 +1,18 @@
 # block
 127.0.0.1 shalltry.com
+127.0.0.1 ind-oneid.shalltry.com
+127.0.0.1 ohttp-relay-safebrowsing-android.google.fastly-edge.com
 127.0.0.1 api-ai-ireland.aibotplatform.com
-
+127.0.0.1 open.boomplaymusic.com
+127.0.0.1 gslb.shalltry.com
+127.0.0.1 g.whatsapp.net
+127.0.0.1 u855cyvod.v.enacdn.net
+127.0.0.1 ind-dsu.shalltry.com
+127.0.0.1 d2wa4x7eimvn0h.cloudfront.net
+127.0.0.1 firebaselogging-pa.googleapis.com
+127.0.0.1 playstoregatewayadapter-pa.googleapis.com
+127.0.0.1 prod-lt-playstoregatewayadapter-pa.googleapis.com
+127.0.0.1 www.googleapis.com
 # Redirect
 :: 127.0.0.1
 127.0.0.1 ::
