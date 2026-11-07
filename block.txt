@@ -55,6 +55,7 @@
 
 # Transsion: verified additions (NowSecure, EasyList #13423, BlockListProject #819, StevenBlack #2091)
 0.0.0.0 transsion-os.com
+0.0.0.0 ind-configuration.transsion-os.com
 0.0.0.0 ire-dsu.shalltry.com
 0.0.0.0 ire-dsu-a.shalltry.com
 0.0.0.0 ire-dsu-b.shalltry.com
@@ -126,6 +127,7 @@
 0.0.0.0 video.pscp.tv.map.fastly.net
 0.0.0.0 prod-fastly-p.video.pscp.tv
 0.0.0.0 p2.shared.global.fastly.net
+0.0.0.0 cdn.jsdelivr.net.cdn.cloudflare.net
 
 # ===== ADS: GOOGLE =====
 0.0.0.0 doubleclick.net
@@ -337,6 +339,7 @@
 0.0.0.0 playstoregatewayadapter-pa.googleapis.com
 0.0.0.0 prod-lt-playstoregatewayadapter-pa.googleapis.com
 0.0.0.0 dialercallinfolookup-pa.googleapis.com
+0.0.0.0 searchnotifications-pa.googleapis.com
 
 # Push notifications (Android FCM)
 0.0.0.0 mtalk.google.com
