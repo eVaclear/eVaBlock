@@ -121,6 +121,10 @@
 0.0.0.0 alb-pxe55n7y72ialz6c9g.eu-central-1.alb.aliyuncsslbintl.com
 0.0.0.0 api.galileoab.com
 0.0.0.0 dynamic.x.com.cdn.cloudflare.net
+0.0.0.0 dualstack.twimg.twitter.map.fastly.net
+0.0.0.0 dualstack.video.twitter.map.fastly.net
+0.0.0.0 video.pscp.tv.map.fastly.net
+0.0.0.0 prod-fastly-p.video.pscp.tv
 
 # ===== ADS: GOOGLE =====
 0.0.0.0 doubleclick.net
@@ -235,6 +239,8 @@
 0.0.0.0 app.adjust.com
 0.0.0.0 app.appsflyer.com
 0.0.0.0 events.appsflyer.com
+0.0.0.0 open.boomplaymusic.com
+0.0.0.0 browser-intake-datadoghq.com
 
 # ===== ADDED v2.1: AD EXCHANGES / DATA BROKERS =====
 0.0.0.0 advertising.com
@@ -313,6 +319,8 @@
 0.0.0.0 business-api.tiktok.com
 0.0.0.0 stats.wp.com
 0.0.0.0 pixel.wp.com
+0.0.0.0 star.c10r.facebook.com
+0.0.0.0 graph.facebook.com
 
 # ============================================================
 #  OPTIONAL: DISABLED BY DEFAULT
@@ -320,34 +328,35 @@
 # ============================================================
 
 # Google services (Play Store, sign-in, fonts, autofill)
-# 0.0.0.0 www.googleapis.com
-# 0.0.0.0 fonts.googleapis.com
-# 0.0.0.0 clientservices.googleapis.com
-# 0.0.0.0 content-autofill.googleapis.com
-# 0.0.0.0 mobileconfiguration-pa.googleapis.com
-# 0.0.0.0 playstoregatewayadapter-pa.googleapis.com
-# 0.0.0.0 prod-lt-playstoregatewayadapter-pa.googleapis.com
+0.0.0.0 www.googleapis.com
+0.0.0.0 fonts.googleapis.com
+0.0.0.0 clientservices.googleapis.com
+0.0.0.0 content-autofill.googleapis.com
+0.0.0.0 mobileconfiguration-pa.googleapis.com
+0.0.0.0 playstoregatewayadapter-pa.googleapis.com
+0.0.0.0 prod-lt-playstoregatewayadapter-pa.googleapis.com
+0.0.0.0 dialercallinfolookup-pa.googleapis.com
 
 # Push notifications (Android FCM)
-# 0.0.0.0 mtalk.google.com
-# 0.0.0.0 mobile-gtalk.l.google.com
+0.0.0.0 mtalk.google.com
+0.0.0.0 mobile-gtalk.l.google.com
 
 # Security (Safe Browsing)
-# 0.0.0.0 safebrowsing.googleapis.com
-# 0.0.0.0 ohttp-relay-safebrowsing-android.google.fastly-edge.com
+0.0.0.0 safebrowsing.googleapis.com
+0.0.0.0 ohttp-relay-safebrowsing-android.google.fastly-edge.com
 
 # WhatsApp connectivity
-# 0.0.0.0 g.whatsapp.net
-# 0.0.0.0 graph.whatsapp.net
+0.0.0.0 g.whatsapp.net
+0.0.0.0 graph.whatsapp.net
 
 # Time sync (can cause clock drift / SSL errors)
-# 0.0.0.0 pool.ntp.org
-# 0.0.0.0 0.datadog.pool.ntp.org
-# 0.0.0.0 1.datadog.pool.ntp.org
-# 0.0.0.0 2.datadog.pool.ntp.org
+0.0.0.0 pool.ntp.org
+0.0.0.0 0.datadog.pool.ntp.org
+0.0.0.0 1.datadog.pool.ntp.org
+0.0.0.0 2.datadog.pool.ntp.org
 
 # Firefox DNS-over-HTTPS
-# 0.0.0.0 mozilla.cloudflare-dns.com
+0.0.0.0 mozilla.cloudflare-dns.com
 
 # Tag manager / social login widgets / deep links
 # 0.0.0.0 googletagmanager.com
