@@ -36,6 +36,7 @@
 0.0.0.0 cloud-config-api.shalltry.com
 0.0.0.0 ind-app-manage-api.shalltry.com
 0.0.0.0 openapi-bigdata.shalltry.com
+0.0.0.0 material-static-oss.eagllwin.com
 0.0.0.0 cm-oss.hisavana.com
 0.0.0.0 api.hisavana.com
 0.0.0.0 www.hippoobox.com
@@ -343,6 +344,7 @@
 0.0.0.0 prod-lt-playstoregatewayadapter-pa.googleapis.com
 0.0.0.0 dialercallinfolookup-pa.googleapis.com
 0.0.0.0 searchnotifications-pa.googleapis.com
+0.0.0.0 discover-pa.googleapis.com
 
 # Push notifications (Android FCM)
 0.0.0.0 mtalk.google.com
