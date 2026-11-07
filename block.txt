@@ -125,6 +125,7 @@
 0.0.0.0 dualstack.video.twitter.map.fastly.net
 0.0.0.0 video.pscp.tv.map.fastly.net
 0.0.0.0 prod-fastly-p.video.pscp.tv
+0.0.0.0 p2.shared.global.fastly.net
 
 # ===== ADS: GOOGLE =====
 0.0.0.0 doubleclick.net
