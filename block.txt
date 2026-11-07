@@ -128,6 +128,7 @@
 0.0.0.0 prod-fastly-p.video.pscp.tv
 0.0.0.0 p2.shared.global.fastly.net
 0.0.0.0 cdn.jsdelivr.net.cdn.cloudflare.net
+0.0.0.0 jsdelivr.map.fastly.net
 
 # ===== ADS: GOOGLE =====
 0.0.0.0 doubleclick.net
@@ -205,7 +206,9 @@
 0.0.0.0 firebaselogging-pa.googleapis.com
 0.0.0.0 firebaselogging.googleapis.com
 0.0.0.0 firebaseremoteconfig.googleapis.com
+0.0.0.0 firebaseremoteconfig-pa.googleapis.com
 0.0.0.0 firebaseremoteconfigrealtime.googleapis.com
+0.0.0.0 firebaseremoteconfigrealtime-pa.googleapis.com
 0.0.0.0 firebase-settings.crashlytics.com
 0.0.0.0 o30969.ingest.us.sentry.io
 0.0.0.0 in.appcenter.ms
@@ -331,10 +334,10 @@
 # ============================================================
 
 # Google services (Play Store, sign-in, fonts, autofill)
-0.0.0.0 www.googleapis.com
-0.0.0.0 fonts.googleapis.com
-0.0.0.0 clientservices.googleapis.com
-0.0.0.0 content-autofill.googleapis.com
+#0.0.0.0 www.googleapis.com
+#0.0.0.0 fonts.googleapis.com
+#0.0.0.0 clientservices.googleapis.com
+#0.0.0.0 content-autofill.googleapis.com
 0.0.0.0 mobileconfiguration-pa.googleapis.com
 0.0.0.0 playstoregatewayadapter-pa.googleapis.com
 0.0.0.0 prod-lt-playstoregatewayadapter-pa.googleapis.com
@@ -343,10 +346,10 @@
 
 # Push notifications (Android FCM)
 0.0.0.0 mtalk.google.com
-0.0.0.0 mobile-gtalk.l.google.com
+#0.0.0.0 mobile-gtalk.l.google.com
 
 # Security (Safe Browsing)
-0.0.0.0 safebrowsing.googleapis.com
+#0.0.0.0 safebrowsing.googleapis.com
 0.0.0.0 ohttp-relay-safebrowsing-android.google.fastly-edge.com
 
 # WhatsApp connectivity
@@ -363,6 +366,6 @@
 0.0.0.0 mozilla.cloudflare-dns.com
 
 # Tag manager / social login widgets / deep links
-# 0.0.0.0 googletagmanager.com
-# 0.0.0.0 connect.facebook.net
-# 0.0.0.0 branch.io
+#0.0.0.0 googletagmanager.com
+#0.0.0.0 connect.facebook.net
+0.0.0.0 branch.io
